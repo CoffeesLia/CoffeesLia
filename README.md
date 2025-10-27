@@ -3,8 +3,8 @@
   <img src="https://i.pinimg.com/originals/8c/1b/3b/8c1b3b1d6d5437b9d631c93f0e4a6b33.gif" width="100%" alt="anime lofi banner"/>
 </p>
 
-<h1 align="center">🌙 Hey, eu sou a <strong>Cecília Melgaço</strong> (CoffesLia)</h1>
-<p align="center">she/her · Dev em formação ☕ · Amante de animes e boa música 🎧</p>
+<h1 align="center">🌙 Hey, eu sou a <strong>Ceci</strong> </h1>
+<p align="center">she/her · Dev em formação ☕ · Amante de animes, café e boa música 🎧</p>
 
 ---
 
