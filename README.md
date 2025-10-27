@@ -4,7 +4,7 @@
 <p align="center">she/her · Dev em formação ☕ · Amante de animes, café e boa música 🎧</p>
 
 <p align="center">
-  <img src="assets/pinkcoffee.gif" width="75%" alt="Lofi Browsing Studying Anime GIF" />
+  <img src="assets/pinkcoffee.gif" width="75%" alt="cute coffee" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="assets/sakura.gif" width="75%" alt="Lofi Browsing Studying Anime GIF" />
+  <img src="assets/sakura.gif" width="100%" alt="sakuras" />
 </p>
 
 <p align="center">
