@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/pinkcoffee.gif" width="100%" alt="Lofi Browsing Studying Anime GIF" />
+  <img src="assets/pinkcoffee.gif" width="80%" alt="Lofi Browsing Studying Anime GIF" />
 </p>
 
 
