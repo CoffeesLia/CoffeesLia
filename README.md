@@ -25,13 +25,14 @@
 </p>
 
 ---
-
+<!--
 ## 🎴 Projetos em destaque
 - 🌿 [**CoffeeByte**](https://github.com/CoffeesLia/CoffeeByte) — um conceito de **cybercafé virtual**, juntando vibe tech e cozy.  
 - 💻 [**Portfolio pessoal**](https://github.com/CoffeesLia/Portfolio) — espaço onde compartilho meus aprendizados e estilo.  
 - 🔧 [**Propostas de melhoria**](https://github.com/CoffeesLia/melhorias-app) — projeto para registrar ideias de evolução de apps.
 
 ---
+!-->
 
 ## 📊 GitHub Stats
 <p align="center">
