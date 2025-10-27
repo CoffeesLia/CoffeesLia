@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-<div class="tenor-gif-embed" data-postid="17529094" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/lofi-browsing-studying-anime-gif-17529094">Lofi Browsing GIF</a>from <a href="https://tenor.com/search/lofi-gifs">Lofi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></p>
+  <img src= "https://tenor.com/pt-BR/view/lofi-browsing-studying-anime-gif-17529094" width="100%" alt="anime coder gif""/>
+</p>
 
 <h1 align="center">🌙 Hey, eu sou a <strong>Ceci</strong> </h1>
 <p align="center">she/her · Dev em formação ☕ · Amante de animes, café e boa música 🎧</p>
