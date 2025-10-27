@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/90db8eecbda9f9a84dbf789d4c9b36ce/tumblr_o4ne48wQuC1tq57ifo1_500.gif" width="250" alt="lofi girl typing"/>
+  <img src="assets/sakura.gif" width="75%" alt="Lofi Browsing Studying Anime GIF" />
 </p>
 
 <p align="center">
