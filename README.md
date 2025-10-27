@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <gif src= "https://tenor.com/pt-BR/view/lofi-browsing-studying-anime-gif-17529094" width="100%" alt="anime coder gif""/>
+  <img src="https://media.tenor.com/4F3e9RrWZkEAAAAd/lofi-browsing-studying.gif" width="100%" alt="lofi coding banner" />
 </p>
 
 <h1 align="center">🌙 Hey, eu sou a <strong>Ceci</strong> </h1>
