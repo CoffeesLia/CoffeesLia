@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="assets/sakura.gif" width="100%" alt="sakuras" />
+  <img src="assets/sakura.gif" width="75%" alt="sakuras" />
 </p>
 
 <p align="center">
