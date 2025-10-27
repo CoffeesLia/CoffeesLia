@@ -26,24 +26,24 @@
 ---
 
 ## 🎴 Projetos em destaque
-- 🌿 [**CoffeeByte**](https://github.com/CoffesLia/CoffeeByte) — um conceito de **cybercafé virtual**, juntando vibe tech e cozy.  
-- 💻 [**Portfolio pessoal**](https://github.com/CoffesLia/Portfolio) — espaço onde compartilho meus aprendizados e estilo.  
-- 🔧 [**Propostas de melhoria**](https://github.com/CoffesLia/melhorias-app) — projeto para registrar ideias de evolução de apps.
+- 🌿 [**CoffeeByte**](https://github.com/CoffeesLia/CoffeeByte) — um conceito de **cybercafé virtual**, juntando vibe tech e cozy.  
+- 💻 [**Portfolio pessoal**](https://github.com/CoffeesLia/Portfolio) — espaço onde compartilho meus aprendizados e estilo.  
+- 🔧 [**Propostas de melhoria**](https://github.com/CoffeesLia/melhorias-app) — projeto para registrar ideias de evolução de apps.
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoffesLia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoffesLia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CoffeesLia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoffeesLia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160"/>
 </p>
 
 ---
 
 ## 💌 Onde me encontrar
 <p align="center">
-  <a href="https://github.com/CoffesLia"><img src="https://img.shields.io/badge/GitHub-CoffesLia-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-Contact-me?style=for-the-badge&logo=gmail&color=gray" /></a>
+  <a href="https://github.com/CoffesLia"><img src="https://img.shields.io/badge/GitHub-CoffeesLia-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:cpm72@proton.me"><img src="https://img.shields.io/badge/Email-Contact-me?style=for-the-badge&logo=gmail&color=gray" /></a>
 </p>
 
 ---
