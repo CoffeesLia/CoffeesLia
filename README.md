@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src= "https://i.pinimg.com/originals/8c/1b/3b/8c1b3b1d6d5437b9d631c93f0e4a6b33.gif" width="100%" alt="anime lofi banner"/>
+  <img src= "https://i.pinimg.com/originals/02/7f/f8/027ff80e4cba7d5983b6d97db281f6a4.gif" width="100%" alt="anime coder gif""/>
 </p>
 
 <h1 align="center">🌙 Hey, eu sou a <strong>Ceci</strong> </h1>
