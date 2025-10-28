@@ -1,6 +1,6 @@
 <!-- Banner -->
 
-<h1 align="center">🌙 Hey, I'm <strong>Ceci</strong> </h1>
+<h1 align="center">🌙 Hey, I'm <strong>Ceci-(CoffeesLia)</strong> </h1>
 <p align="center">she/her · Dev in training ☕ · Lover of anime, coffee, and good music 🎧</p>
 
 <p align="center">
