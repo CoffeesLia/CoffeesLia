@@ -27,7 +27,7 @@
 ---
 
 ## 🎴 Featured Projects
-- 🌿 [**CoffeeByte**](https://github.com/CoffeesLia/CoffeeByte) — a **virtual cybercafé** concept, blending cozy and tech vibes.  
+- 🌿 [**CoffeeByte**](https://github.com/CoffeesLia/CoffeeByte) — a **cybercafé** concept, blending cozy and tech vibes.  
 - 💻 [**Personal Portfolio**](https://github.com/CoffeesLia/Personal-Portfolio) — a space where I share my learning journey and aesthetic.  
 ---
 
