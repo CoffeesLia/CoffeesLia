@@ -1,7 +1,7 @@
 <!-- Banner -->
 
-<h1 align="center">🌙 Hey, eu sou a <strong>Ceci</strong> </h1>
-<p align="center">she/her · Dev em formação ☕ · Amante de animes, café e boa música 🎧</p>
+<h1 align="center">🌙 Hey, I'm <strong>Ceci</strong> </h1>
+<p align="center">she/her · Dev in training ☕ · Lover of anime, coffee, and good music 🎧</p>
 
 <p align="center">
   <img src="assets/pinkcoffee.gif" width="75%" alt="cute coffee" />
@@ -9,30 +9,27 @@
 
 ---
 
-## 💫 Sobre mim
-> “O código é como uma canção — cada linha tem seu ritmo.”
+## 💫 About Me
+> “Code is like a song — every line has its rhythm.”
 
-- 👩‍💻 Estudante e desenvolvedora iniciante, com experiência como **Jovem Aprendiz na Stellantis**.  
-- ☕ Apaixonada por tecnologia, estética cozy e animes com trilha lo-fi.  
-- 🌸 Gosto de aprender novas stacks e criar pequenos projetos com visual e propósito.  
-- 💭 Sonho: unir **design, front-end** e **emoção** em projetos bonitos e funcionais.
+- 👩‍💻 Student and beginner developer, with experience as a **Young Apprentice at Stellantis**.  
+- ☕ Passionate about technology, cozy aesthetics, and animes with lo-fi soundtracks.  
+- 🌸 I love learning new stacks and creating small projects with both purpose and style.  
+- 💭 Dream: to combine **design, front-end**, and **emotion** into beautiful, functional projects.
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## 🧰 Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode&theme=dark" />
 </p>
 
 ---
-<!--
-## 🎴 Projetos em destaque
-- 🌿 [**CoffeeByte**](https://github.com/CoffeesLia/CoffeeByte) — um conceito de **cybercafé virtual**, juntando vibe tech e cozy.  
-- 💻 [**Portfolio pessoal**](https://github.com/CoffeesLia/Portfolio) — espaço onde compartilho meus aprendizados e estilo.  
-- 🔧 [**Propostas de melhoria**](https://github.com/CoffeesLia/melhorias-app) — projeto para registrar ideias de evolução de apps.
 
+## 🎴 Featured Projects
+- 🌿 [**CoffeeByte**](https://github.com/CoffeesLia/CoffeeByte) — a **virtual cybercafé** concept, blending cozy and tech vibes.  
+- 💻 [**Personal Portfolio**](https://github.com/CoffeesLia/Portfolio) — a space where I share my learning journey and aesthetic.  
 ---
-!-->
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -42,7 +39,7 @@
 
 ---
 
-## 💌 Onde me encontrar
+## 💌 Where to Find Me
 <p align="center">
   <a href="https://github.com/CoffesLia"><img src="https://img.shields.io/badge/GitHub-CoffeesLia-181717?style=for-the-badge&logo=github" /></a>
   <a href="mailto:cpm72@proton.me"><img src="https://img.shields.io/badge/Email-Contact-me?style=for-the-badge&logo=gmail&color=gray" /></a>
